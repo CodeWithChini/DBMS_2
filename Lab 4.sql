@@ -205,9 +205,6 @@ END
 SELECT dbo.FN_AGE('2006-07-09')
 
 --12. Write a scalar function to check whether given number is palindrome or not.
-
-
-
 --13. Write a scalar function to calculate the sum of Credits for all courses in the 'CSE' department.
 --14. Write a table-valued function that returns all courses taught by faculty with a specific designation.
 --Part - C
